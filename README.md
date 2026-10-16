@@ -70,7 +70,7 @@ src/main/java/edu/eci/arsw/blueprints
   }
   ```
 
-### 4. OpenAPI / Swagger (Bono)
+### 4. OpenAPI / Swagger
 - Configura `springdoc-openapi` en el proyecto.  
 - Expón documentación automática en `/swagger-ui.html`.  
 - Actualiza la documentación de los endpoints con `@Operation` y `@ApiResponse` de todos los métodos del controler.
