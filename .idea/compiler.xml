@@ -12,7 +12,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="SpringBoot_REST_API_Blueprints" options="-parameters" />
+      <module name="SpringBoot_REST_API_Blueprints" options="" />
     </option>
   </component>
 </project>
